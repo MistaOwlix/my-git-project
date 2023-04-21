@@ -4,4 +4,4 @@
 
 ## I'm in the feature branch
 
-> Adding a new line
+> Changed a new line
