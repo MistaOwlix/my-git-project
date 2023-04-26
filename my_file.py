@@ -8,4 +8,4 @@ def hi_there():
 
 
 def hi_there():
-    print("Update python function with merge conflict")
+    print("My local change")
